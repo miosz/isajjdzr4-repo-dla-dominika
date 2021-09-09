@@ -2,4 +2,4 @@
 
 Student: Miłosz Woźniak
 
-School: infShare Academy
+School: infoShare Academy
